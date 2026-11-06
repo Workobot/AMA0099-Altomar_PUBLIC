@@ -10,9 +10,9 @@ FBXHeaderExtension:  {
 		Month: 11
 		Day: 6
 		Hour: 12
-		Minute: 24
-		Second: 32
-		Millisecond: 355
+		Minute: 47
+		Second: 14
+		Millisecond: 34
 	}
 	Creator: "FBX SDK/FBX Plugins version 2020.3.4"
 	OtherFlags:  {
@@ -76,7 +76,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 11656081088, "Scene", "Scene" {
+	Document: 11656077760, "Scene", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", ""
@@ -221,7 +221,7 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	Geometry: 18043755616, "Geometry::Scene", "Mesh" {
+	Geometry: 18043756064, "Geometry::Scene", "Mesh" {
 		Vertices: *24 {
 			a: -50,-50,50,50,-50,50,-50,50,50,50,50,50,-50,50,-50,50,50,-50,-50,-50,-50,50,-50,-50
 		} 
@@ -330,7 +330,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 18018690736, "Model::Dummies", "Null" {
+	Model: 17176030960, "Model::Dummies", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -341,7 +341,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 18018696736, "Model::Cube", "Mesh" {
+	Model: 17176032960, "Model::Cube", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -349,14 +349,14 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",-1109.70001220703,2145.59993743896,317.10000038147
+			P: "Lcl Translation", "Lcl Translation", "", "A",-1071.22001647949,2145.59993743896,356.209993362427
 			P: "Lcl Rotation", "Lcl Rotation", "", "A",-0,44.53857421875,0
-			P: "Lcl Scaling", "Lcl Scaling", "", "A",17.5319156646729,43.9121017456055,47.2754859924316
+			P: "Lcl Scaling", "Lcl Scaling", "", "A",17.5319156646729,43.9121017456055,47.9852104187012
 		}
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 18018682736, "Model::Cube__1_", "Mesh" {
+	Model: 1170441776, "Model::Cube__1_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -371,7 +371,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 18018684736, "Model::Cube__2_", "Mesh" {
+	Model: 17136445520, "Model::Cube__2_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -386,7 +386,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 18018674736, "Model::Cube__3_", "Mesh" {
+	Model: 16799957136, "Model::Cube__3_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -401,7 +401,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Material: 18179438512, "Material::DefaultHDMaterial", "" {
+	Material: 17166182064, "Material::DefaultHDMaterial", "" {
 		Version: 102
 		ShadingModel: "lambert"
 		MultiLayer: 0
@@ -423,43 +423,43 @@ Objects:  {
 Connections:  {
 	
 	;Model::Dummies, Model::RootNode
-	C: "OO",18018690736,0
+	C: "OO",17176030960,0
 	
 	;Model::Cube, Model::Dummies
-	C: "OO",18018696736,18018690736
+	C: "OO",17176032960,17176030960
 	
 	;Model::Cube__1_, Model::Dummies
-	C: "OO",18018682736,18018690736
+	C: "OO",1170441776,17176030960
 	
 	;Model::Cube__2_, Model::Dummies
-	C: "OO",18018684736,18018690736
+	C: "OO",17136445520,17176030960
 	
 	;Model::Cube__3_, Model::Dummies
-	C: "OO",18018674736,18018690736
+	C: "OO",16799957136,17176030960
 	
 	;Material::DefaultHDMaterial, Model::Cube
-	C: "OO",18179438512,18018696736
+	C: "OO",17166182064,17176032960
 	
 	;Geometry::Scene, Model::Cube
-	C: "OO",18043755616,18018696736
+	C: "OO",18043756064,17176032960
 	
 	;Material::DefaultHDMaterial, Model::Cube__1_
-	C: "OO",18179438512,18018682736
+	C: "OO",17166182064,1170441776
 	
 	;Geometry::Scene, Model::Cube__1_
-	C: "OO",18043755616,18018682736
+	C: "OO",18043756064,1170441776
 	
 	;Material::DefaultHDMaterial, Model::Cube__2_
-	C: "OO",18179438512,18018684736
+	C: "OO",17166182064,17136445520
 	
 	;Geometry::Scene, Model::Cube__2_
-	C: "OO",18043755616,18018684736
+	C: "OO",18043756064,17136445520
 	
 	;Material::DefaultHDMaterial, Model::Cube__3_
-	C: "OO",18179438512,18018674736
+	C: "OO",17166182064,16799957136
 	
 	;Geometry::Scene, Model::Cube__3_
-	C: "OO",18043755616,18018674736
+	C: "OO",18043756064,16799957136
 }
 ;Takes section
 ;----------------------------------------------------
