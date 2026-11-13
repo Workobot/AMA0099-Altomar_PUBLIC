@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "[\"Altomar\",\"amenidades\",\"Biosaludables\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 24,
+        "fov": 90
+      },
+      "signature": "f01186c74e3f898e5c74e2d83e4eaa19267488417a81e61705b2140f291ab257",
+      "outputSize": 195926,
+      "outputMtime": 1794540793319.4602
+    },
+    "[\"Altomar\",\"amenidades\",\"Lobby\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": -5,
+        "fov": 90
+      },
+      "signature": "b8d196810a50857dd3c625b62fd75797c7e9a8f51cd49de4552dc8bc5dae7a68",
+      "outputSize": 174150,
+      "outputMtime": 1794540802023.0034
+    },
+    "[\"Altomar\",\"amenidades\",\"Parque\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 5,
+        "fov": 102
+      },
+      "signature": "adcc5f7830a3e5fa122e0c1896aad9bd4b4d86014157a5fb9621a1905429f2ce",
+      "outputSize": 202448,
+      "outputMtime": 1794540817644.0137
+    },
+    "[\"Altomar\",\"amenidades\",\"Pickleball\"]": {
+      "pose": {
+        "pitch": -36,
+        "yaw": -15,
+        "fov": 105
+      },
+      "signature": "c3d0e1d419017b5a0b4256eb50eb4ff18ef28ec8d508ad3b3b7478d12651132e",
+      "outputSize": 202267,
+      "outputMtime": 1794540838583.7158
+    },
+    "[\"Altomar\",\"amenidades\",\"Piscina\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 10,
+        "fov": 90
+      },
+      "signature": "947421544325d539d7b883b8a705e04626310a900e24609c7779db3395865514",
+      "outputSize": 136183,
+      "outputMtime": 1794540849173.056
+    },
+    "[\"Altomar\",\"amenidades\",\"Terraza\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 96
+      },
+      "signature": "7918b951c07ed255e81bf2ffd7efbf03c9ef7ae75ca046fc9d1f241b54519e8d",
+      "outputSize": 164540,
+      "outputMtime": 1794540855199.0254
+    }
+  }
+}
