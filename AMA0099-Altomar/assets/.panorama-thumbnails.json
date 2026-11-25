@@ -3,62 +3,62 @@
     "[\"Altomar\",\"amenidades\",\"Biosaludables\"]": {
       "pose": {
         "pitch": 0,
-        "yaw": 24,
+        "yaw": 14,
         "fov": 90
       },
-      "signature": "f01186c74e3f898e5c74e2d83e4eaa19267488417a81e61705b2140f291ab257",
-      "outputSize": 195926,
-      "outputMtime": 1794540793319.4602
+      "signature": "d1a3657e4c8cff9557531d395a0a0f1cdd5b87b8581f4d6638c3c9671adfe903",
+      "outputSize": 215505,
+      "outputMtime": 1795486428590.7766
     },
     "[\"Altomar\",\"amenidades\",\"Lobby\"]": {
       "pose": {
-        "pitch": 0,
-        "yaw": -5,
+        "pitch": 6,
+        "yaw": 20,
         "fov": 90
       },
-      "signature": "b8d196810a50857dd3c625b62fd75797c7e9a8f51cd49de4552dc8bc5dae7a68",
-      "outputSize": 174150,
-      "outputMtime": 1794540802023.0034
+      "signature": "b9fefc4cc93350a6e302a775b61db803b0d38cdd2bdca0b416c8d0ce07616443",
+      "outputSize": 211405,
+      "outputMtime": 1795486438076.8665
     },
     "[\"Altomar\",\"amenidades\",\"Parque\"]": {
       "pose": {
         "pitch": 0,
-        "yaw": 5,
+        "yaw": 32,
         "fov": 102
       },
-      "signature": "adcc5f7830a3e5fa122e0c1896aad9bd4b4d86014157a5fb9621a1905429f2ce",
-      "outputSize": 202448,
-      "outputMtime": 1794540817644.0137
+      "signature": "e48f31b983663d62472d52651282744dd1ba5e2a83a2d519846c106c126b6b89",
+      "outputSize": 206370,
+      "outputMtime": 1795486442777.4807
     },
     "[\"Altomar\",\"amenidades\",\"Pickleball\"]": {
       "pose": {
         "pitch": -36,
-        "yaw": -15,
+        "yaw": -10,
         "fov": 105
       },
-      "signature": "c3d0e1d419017b5a0b4256eb50eb4ff18ef28ec8d508ad3b3b7478d12651132e",
-      "outputSize": 202267,
-      "outputMtime": 1794540838583.7158
+      "signature": "4946373f1d55745a7a3290b8dabd984aff28e1c3da7ed6b002084b3d4d10b6e4",
+      "outputSize": 183529,
+      "outputMtime": 1795486451708.2207
     },
     "[\"Altomar\",\"amenidades\",\"Piscina\"]": {
       "pose": {
         "pitch": 0,
-        "yaw": 10,
-        "fov": 90
+        "yaw": 6,
+        "fov": 98
       },
-      "signature": "947421544325d539d7b883b8a705e04626310a900e24609c7779db3395865514",
-      "outputSize": 136183,
-      "outputMtime": 1794540849173.056
+      "signature": "2b1409b9f777971bda6a417e49578b660fc60de42b4991421e64e531c40f457c",
+      "outputSize": 129949,
+      "outputMtime": 1795486463981.857
     },
     "[\"Altomar\",\"amenidades\",\"Terraza\"]": {
       "pose": {
         "pitch": 0,
         "yaw": 0,
-        "fov": 96
+        "fov": 99
       },
-      "signature": "7918b951c07ed255e81bf2ffd7efbf03c9ef7ae75ca046fc9d1f241b54519e8d",
-      "outputSize": 164540,
-      "outputMtime": 1794540855199.0254
+      "signature": "58e659cc24be9450bbd7dfaf477fd284987de02e50ed246e6e36f1dee0fc3a4b",
+      "outputSize": 179340,
+      "outputMtime": 1795486469367.2683
     }
   }
 }
